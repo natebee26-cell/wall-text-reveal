@@ -1,1 +1,1 @@
-# -wall-text-reveal
+# wall-text-reveal
